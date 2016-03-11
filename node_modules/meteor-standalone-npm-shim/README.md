@@ -1,0 +1,1 @@
+A temporary fix to deal with making Meteor packages standalone.  Many issues exist with transitioning from global variables to `require(...)`.  Built to support [React Meteor Standalone Mixin](https://www.npmjs.com/package/meteor-standalone-react-mixin)

@@ -1,0 +1,38 @@
+{
+  "name": "karma-ng-scenario",
+  "version": "0.1.0",
+  "description": "A Karma plugin. Adapter for Angular's Scenario Runner.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karma-runner/karma-ng-scenario.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "angular",
+    "e2e",
+    "scenario-runner"
+  ],
+  "author": "Vojta Jina <vojta.jina@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6",
+    "karma": "~0.9",
+    "karma-jasmine": "*",
+    "karma-chrome-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "grunt-karma": "~0.4",
+    "grunt-bump": "~0.0.11",
+    "grunt-npm": "~0.0.2",
+    "grunt-auto-release": "~0.0.3"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT"
+}

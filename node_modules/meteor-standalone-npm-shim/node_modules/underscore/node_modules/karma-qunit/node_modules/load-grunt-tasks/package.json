@@ -1,0 +1,78 @@
+{
+  "name": "load-grunt-tasks",
+  "version": "3.4.1",
+  "description": "Load multiple grunt tasks using globbing patterns",
+  "keywords": [
+    "dependencies",
+    "glob",
+    "grunt",
+    "load",
+    "match",
+    "matchdep",
+    "pattern",
+    "require",
+    "tasks"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/load-grunt-tasks.git"
+  },
+  "scripts": {
+    "test": "xo && grunt"
+  },
+  "dependencies": {
+    "arrify": "^1.0.0",
+    "multimatch": "^2.0.0",
+    "pkg-up": "^1.0.0",
+    "resolve-pkg": "^0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "grunt-cli": "^0.1.13",
+    "grunt-svgmin": "^3.1.0",
+    "xo": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "gitHead": "bb2e89f2759cfad6cc2f0a7fc5eb6cf6271fa2bd",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/load-grunt-tasks/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/load-grunt-tasks",
+  "_id": "load-grunt-tasks@3.4.1",
+  "_shasum": "883b93eabd3b1ccbf364fdceb1ca8993fc65a8a5",
+  "_from": "load-grunt-tasks@>=3.2.0 <4.0.0",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "883b93eabd3b1ccbf364fdceb1ca8993fc65a8a5",
+    "tarball": "http://registry.npmjs.org/load-grunt-tasks/-/load-grunt-tasks-3.4.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/load-grunt-tasks-3.4.1.tgz_1456813683560_0.44614644604735076"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/load-grunt-tasks/-/load-grunt-tasks-3.4.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

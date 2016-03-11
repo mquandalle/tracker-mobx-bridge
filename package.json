@@ -1,0 +1,18 @@
+{
+  "name": "tracker2",
+  "version": "0.1.0",
+  "description": "",
+  "main": "tracker.js",
+  "scripts": {
+    "build": "tsc tracker.ts",
+    "test": "npm run build && node tracker-tests.js"
+  },
+  "author": "Maxime Quandalle <maxime@quandalle.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.8.2"
+  },
+  "dependencies": {
+    "mobx": "^2.0.2"
+  }
+}
